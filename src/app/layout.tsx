@@ -3,9 +3,9 @@ import Image from "next/image";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Spider-Verse",
+  title: "SpiderVerse",
   description:
-    "Criando um carrossel parallax do Aranhaverso com React, Next.js 13 e Framer Motion",
+    "Creating a Spiderverse parallax carousel with React, Next.js 13 and Framer Motion",
 };
 
 export default function RootLayout({
